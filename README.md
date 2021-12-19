@@ -18,7 +18,7 @@ This repository contains of two python files:
 
 * *extract_frames.py* to extract every frame from the videos and map each frame with it's respective coordinates from the json file. These coordinates are normalized and formatted to fit the YOLOv5 annotation convections.
 
-* *pqrs.py* to randomly split the resulting dataset into training and validation set in ratio r.
+* *split_dataset.py* to randomly split the resulting dataset into training and validation set in ratio r.
 
 <hr>
 
